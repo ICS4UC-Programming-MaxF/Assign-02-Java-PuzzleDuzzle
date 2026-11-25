@@ -1,0 +1,20 @@
+Word: JAVA | Result: FAILED | Hints used: 0
+Word: JAVA | Result: WON (early) | Hints used: 1
+Word: LIST | Result: FAILED | Hints used: 1
+Word: JAVA | Result: FAILED | Hints used: 0
+Word: LIST | Result: WON (early) | Hints used: 0
+Word: CODE | Result: FAILED | Hints used: 0
+Word: JAVA | Result: FAILED | Hints used: 0
+Word: NULL | Result: WON (early) | Hints used: 0
+Word: LIST | Result: FAILED | Hints used: 2
+Word: CODE | Result: WON (early) | Hints used: 0
+Word: LOOP | Result: FAILED | Hints used: 0
+Word: NULL | Result: WON (early) | Hints used: 0
+Word: CODE | Result: WON (early) | Hints used: 1
+Word: JAVA | Result: FAILED | Hints used: 0
+Word: LIST | Result: WON (early) | Hints used: 1
+Word: NULL | Result: WON (early) | Hints used: 0
+Word: NULL | Result: FAILED | Hints used: 1
+Word: CODE | Result: FAILED | Hints used: 0
+Word: JAVA | Result: FAILED | Hints used: 0
+Word: LIST | Result: FAILED | Hints used: 0
